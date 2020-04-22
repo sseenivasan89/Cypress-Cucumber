@@ -1,0 +1,4 @@
+node_modules
+cypress/videos
+npm-debug.log
+cypress/screenshots

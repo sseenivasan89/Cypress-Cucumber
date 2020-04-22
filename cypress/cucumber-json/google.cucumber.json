@@ -1,0 +1,57 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Google Search",
+    "line": 1,
+    "id": "google-search",
+    "tags": [],
+    "uri": "google.feature",
+    "elements": [
+      {
+        "id": "google-search;doing-google-search",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Doing Google Search",
+        "tags": [
+          {
+            "name": "@google",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open Google",
+            "result": {
+              "status": "passed",
+              "duration": 8771000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "I see \"Google\" in the title",
+            "result": {
+              "status": "passed",
+              "duration": 48000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I Search \"saravanan seenivasan\"",
+            "result": {
+              "status": "passed",
+              "duration": 2124000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
