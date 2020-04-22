@@ -17,3 +17,4 @@ npm run test
 > * Hooks
 > * Tags Usage
 > * JSON Reports
+> * Page Object Model
