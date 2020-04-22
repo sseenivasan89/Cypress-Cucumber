@@ -12,7 +12,7 @@ class googlePage {
 
   static searchWord(keyword) {
     cy.get(search_box).type(keyword)
-    cy.wait(500)
+    cy.wait(1000)
     //cy.get('[name="btnK"]').click({multiple: true})    
   }
 }
