@@ -16,5 +16,6 @@ npm run test
 
 > * Hooks
 > * Tags Usage
-> * JSON Reports
 > * Page Object Model
+> * JSON Reports
+> * Cucumber Html Reports

@@ -35,3 +35,4 @@ before(() => {
   afterEach(() => {
     cy.log('Global After Each Hook');
   })
+

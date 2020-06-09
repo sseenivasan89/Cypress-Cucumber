@@ -3,3 +3,5 @@ cypress/videos/tests
 npm-debug.log
 cypress/screenshots/tests
 cypress/cucumber-json
+cucumber_report/
+screenshots/

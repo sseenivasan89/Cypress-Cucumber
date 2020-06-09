@@ -1,3 +1,8 @@
+# 3.0.0 (2019-08-20)
+
+* drop support for Node 4, 6
+* support Node 10, 12
+
 # 2.0.1
 
 * support object errors without stack
