@@ -17,7 +17,7 @@
     "cypress": "^4.7.0",
     "cypress-cucumber-preprocessor": "^2.3.1",
     "cypress-xpath": "^1.4.0",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.9.5"
   },
   "cypress-cucumber-preprocessor": {
